@@ -1,12 +1,15 @@
-### Hi there 👋
+### Привет! 👋 Меня зовут Дмитрий!
++ В настоящий момент я работаю в _GeekBrains_ ассистентом преподавателя на курсе **"Введение в программирование"** и ревьюером на курсе **"Знакомство с языками программирования (C#)"**.
+
++ Там же продолжаю учиться на программе **"Разработчик"**.
 
 <!--
 **PromathBul/PromathBul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 
+- 
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
