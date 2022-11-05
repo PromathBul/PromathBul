@@ -3,7 +3,7 @@
 
 + Там же продолжаю учиться на программе **"Разработчик"**.
 
-+ Достиг уровня **6 kyu** (170+ очков, 50+ решённых задач) на ***codewars.com***. **[Ссылка на мой аккаунт](https://www.codewars.com/users/PromathBul/)**.
++ Достиг уровня **6 kyu** (180+ очков, 50+ решённых задач) на ***codewars.com***. **[Ссылка на мой аккаунт](https://www.codewars.com/users/PromathBul/)**.
 
 <!--
 **PromathBul/PromathBul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
